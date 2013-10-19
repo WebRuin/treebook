@@ -3,3 +3,9 @@ tim:
   last_name: "Smith"
   profile_name: "tithos"
   email: "tim.smith.hdg@gmail.com"
+
+jim:
+  first_name: "Jim"
+  last_name: "Hoskins"
+  email: "jim@teamtreehouse.com"
+  profile_name: "jimhoskins"
