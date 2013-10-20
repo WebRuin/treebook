@@ -9,6 +9,10 @@ gem 'devise'
 gem 'simple_form'
 gem 'prerender_rails'
 
+group :test do
+    gem 'shoulda'
+end
+
 group :development, :test do
 	gem 'sqlite3'
 end
