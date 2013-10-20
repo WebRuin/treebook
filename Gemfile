@@ -7,6 +7,7 @@ gem 'rails', '3.2.15'
 
 gem 'devise'
 gem 'simple_form'
+gem 'prerender_rails'
 
 group :development, :test do
 	gem 'sqlite3'
